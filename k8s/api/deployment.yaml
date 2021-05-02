@@ -14,10 +14,6 @@ spec:
       containers:
         - name: api
           image: thpereira/api-bootcamp-produto:latest
-          resources:
-            limits:
-              memory: "128Mi"
-              cpu: "500m"
           ports:
             - containerPort: 8085
           env:
