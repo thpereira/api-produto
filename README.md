@@ -1,3 +1,3 @@
 # api-produto
--Bootcamp sobre Kubernetes
--API foi desenvolvida pelo Fabricio Veronez
+- Bootcamp sobre Kubernetes
+- API foi desenvolvida pelo Fabricio Veronez
